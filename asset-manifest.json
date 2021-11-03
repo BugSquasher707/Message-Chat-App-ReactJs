@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Message-Chat-App-ReactJs/static/css/main.51c6ebb1.chunk.css",
+    "main.js": "/Message-Chat-App-ReactJs/static/js/main.c1ecea35.chunk.js",
+    "main.js.map": "/Message-Chat-App-ReactJs/static/js/main.c1ecea35.chunk.js.map",
+    "runtime-main.js": "/Message-Chat-App-ReactJs/static/js/runtime-main.ca838eef.js",
+    "runtime-main.js.map": "/Message-Chat-App-ReactJs/static/js/runtime-main.ca838eef.js.map",
+    "static/css/2.f7861fd5.chunk.css": "/Message-Chat-App-ReactJs/static/css/2.f7861fd5.chunk.css",
+    "static/js/2.5f3eed8f.chunk.js": "/Message-Chat-App-ReactJs/static/js/2.5f3eed8f.chunk.js",
+    "static/js/2.5f3eed8f.chunk.js.map": "/Message-Chat-App-ReactJs/static/js/2.5f3eed8f.chunk.js.map",
+    "index.html": "/Message-Chat-App-ReactJs/index.html",
+    "precache-manifest.b49be660ab35e59287c7d207a58e1081.js": "/Message-Chat-App-ReactJs/precache-manifest.b49be660ab35e59287c7d207a58e1081.js",
+    "service-worker.js": "/Message-Chat-App-ReactJs/service-worker.js",
+    "static/css/2.f7861fd5.chunk.css.map": "/Message-Chat-App-ReactJs/static/css/2.f7861fd5.chunk.css.map",
+    "static/css/main.51c6ebb1.chunk.css.map": "/Message-Chat-App-ReactJs/static/css/main.51c6ebb1.chunk.css.map",
+    "static/js/2.5f3eed8f.chunk.js.LICENSE.txt": "/Message-Chat-App-ReactJs/static/js/2.5f3eed8f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca838eef.js",
+    "static/css/2.f7861fd5.chunk.css",
+    "static/js/2.5f3eed8f.chunk.js",
+    "static/css/main.51c6ebb1.chunk.css",
+    "static/js/main.c1ecea35.chunk.js"
+  ]
+}
