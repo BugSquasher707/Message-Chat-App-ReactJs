@@ -1,0 +1,28 @@
+.main__chatbody,.main__chatbody1 {
+  flex-grow: 1;
+  background-color: #f4f3f8;
+  border-radius: 10px;
+  padding: 20px 25px;
+  padding-right: 15px;
+  display: flex;
+}
+
+.main__chatbody1{
+  justify-content: center;
+  align-items: center;
+  display: none !important;
+}
+
+.sorryH1{
+  text-align: center;
+}
+
+@media (max-width: 675px){
+  .main__chatbody{
+    display: none !important;
+  }
+
+  .main__chatbody1{
+    display: flex !important;
+  }
+}
